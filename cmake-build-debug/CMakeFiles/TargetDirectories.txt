@@ -1,0 +1,3 @@
+C:/Users/Jeremias.BRAUN/CLionProjects/team-project/cmake-build-debug/CMakeFiles/team_project.dir
+C:/Users/Jeremias.BRAUN/CLionProjects/team-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jeremias.BRAUN/CLionProjects/team-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
