@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Jeremias.BRAUN/CLionProjects/team-project/hfiles/addition.h">
+			<Option target="team_project"/>
+		</Unit>
+		<Unit filename="C:/Users/Jeremias.BRAUN/CLionProjects/team-project/hfiles/division.h">
+			<Option target="team_project"/>
+		</Unit>
+		<Unit filename="C:/Users/Jeremias.BRAUN/CLionProjects/team-project/hfiles/multiply.h">
+			<Option target="team_project"/>
+		</Unit>
+		<Unit filename="C:/Users/Jeremias.BRAUN/CLionProjects/team-project/hfiles/subtraction.h">
+			<Option target="team_project"/>
+		</Unit>
 		<Unit filename="C:/Users/Jeremias.BRAUN/CLionProjects/team-project/main.cpp">
 			<Option target="team_project"/>
 		</Unit>
