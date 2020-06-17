@@ -1,3 +1,12 @@
+/**
+ * Date: 		16. Juni 2020
+ * File-Name:	main.cpp
+ * Version: 	1.0.000.002
+ * Copyright:	©Jeremias Braun
+ * Author: 		Jeremias Braun
+ * E-Mail: 		jeremias.braun@lbs4.salzburg.at
+ */
+
 #include <iostream>
 #include <sstream>
 

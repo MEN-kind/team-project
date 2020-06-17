@@ -4,7 +4,7 @@
  * Version: 	1.0.000.002
  * Copyright:	©Markus Hauser
  * Author: 		Markus Hauser
- * E-Mail: 		hauser.markus@lbs4.salzburg.at
+ * E-Mail: 		markus.hauser@lbs4.salzburg.at
  */
 
 #ifndef TEAM_PROJECT_MULTIPLY_H

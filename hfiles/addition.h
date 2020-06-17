@@ -4,7 +4,7 @@
  * Version: 	1.0.000.002
  * Copyright:	©Julia Beck
  * Author: 		Julia Beck
- * E-Mail: 		beck.julia@lbs4.salzburg.at
+ * E-Mail: 		julia.beck@lbs4.salzburg.at
  */
 
 #ifndef TEAM_PROJECT_ADDITION_H

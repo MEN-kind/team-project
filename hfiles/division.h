@@ -4,7 +4,7 @@
  * Version: 	1.0.000.002
  * Copyright:	©Stephan Windauer
  * Author: 		Stephan Windauer
- * E-Mail: 		windauer.stephan@lbs4.salzburg.at
+ * E-Mail: 		stephan.windauer@lbs4.salzburg.at
  */
 
 #ifndef TEAM_PROJECT_DIVISION_H
