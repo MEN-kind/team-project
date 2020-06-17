@@ -10,7 +10,9 @@
 #ifndef TEAM_PROJECT_MULTIPLY_H
 #define TEAM_PROJECT_MULTIPLY_H
 
+// Create the multiply function and give it two doubles as parameters.
 double multiply(double number1, double number2) {
+    // Return the result of the maths
     return number1 * number2;
 }
 

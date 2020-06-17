@@ -10,7 +10,9 @@
 #ifndef TEAM_PROJECT_ADDITION_H
 #define TEAM_PROJECT_ADDITION_H
 
+// Create the addition function and give it two doubles as parameters.
 double addition(double number1, double number2) {
+    // Return the result of the maths
     return number1 + number2;
 }
 
