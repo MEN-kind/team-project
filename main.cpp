@@ -31,7 +31,6 @@ int main() {
     cout << "Enter the second:" << endl;
     cin >> number2;
 
-    // KURZFORM, BESCHREIBUNG, Anwendung, Bauweise, Besonderheit | Zusammenfassung - Geschichte - Speicher
     // Declare the variables for the different results of the math operations
     double finishedAddition, finishedDivision, finishedMultiply, finishedSubtraction;
 
