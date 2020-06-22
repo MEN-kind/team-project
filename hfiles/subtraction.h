@@ -2,9 +2,10 @@
  * Date: 		16. Juni 2020
  * File-Name:	subtraction.h
  * Version: 	1.0.000.002
- * Copyright:	©Martin Niederkofler
+ * Copyright:	written by Martin Niederkofler
  * Author: 		Martin Niederkofler
  * E-Mail: 		martin.niederkofler@lbs4.salzburg.at
+ * License:     GNU General Public License 3.0
  */
 
 #ifndef TEAM_PROJECT_SUBTRACTION_H
